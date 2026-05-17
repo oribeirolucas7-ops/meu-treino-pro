@@ -1,0 +1,8 @@
+{
+  "name": "Meu Treino Pro",
+  "description": "Meu Treino Pro - Seu companheiro completo para musculação e organização de treinos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
